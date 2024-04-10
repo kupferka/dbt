@@ -7,7 +7,7 @@
   <categories>
     <category ID="3">
       <label xml:lang="de" text="Bauhaus-Universität Weimar" />
-      <label xml:lang="x-place" text="Bauhaus-Universität Weimar | Weimar | Geschwister-Scholl-Straße 8, 99423 Weimar" />
+      <label xml:lang="x-place" text="Bauhaus-Universität Weimar | Weimar | Steubenstraße 6-8, 99423 Weimar" />
       <category ID="3000">
         <label xml:lang="de" text="Fakultät Architektur und Urbanistik" />
         <category ID="3001">
@@ -17,7 +17,7 @@
           <label xml:lang="de" text="Bauhaus-Institut für Geschichte und Theorie der Architektur und Planung" />
         </category>
         <category ID="3003">
-          <label xml:lang="de" text="DFG-Graduierten-kollegs 2227 Identität und Erbe" />
+          <label xml:lang="de" text="DFG-Graduierten-kollegs 2227 &quot;Identität und Erbe&quot;" />
         </category>
         <category ID="3004">
           <label xml:lang="de" text="Gropius-Professur" />
